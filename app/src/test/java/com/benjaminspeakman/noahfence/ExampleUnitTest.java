@@ -1,4 +1,4 @@
-package com.example.noahfence;
+package com.benjaminspeakman.noahfence;
 
 import org.junit.Test;
 

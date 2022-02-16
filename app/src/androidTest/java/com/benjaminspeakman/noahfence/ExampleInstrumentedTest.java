@@ -1,4 +1,4 @@
-package com.example.noahfence;
+package com.benjaminspeakman.noahfence;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.example.noahfence", appContext.getPackageName());
+        assertEquals("com.benjaminspeakman.noahfence", appContext.getPackageName());
     }
 }
