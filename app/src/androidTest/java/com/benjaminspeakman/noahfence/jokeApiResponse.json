@@ -1,0 +1,39 @@
+{
+    "error": false,
+    "amount": 2,
+    "jokes": [
+        {
+            "category": "Pun",
+            "type": "single",
+            "joke": "mock response",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 220,
+            "safe": true,
+            "lang": "en"
+        },
+        {
+            "category": "Pun",
+            "type": "twopart",
+            "setup": "I hate Russian matryoshka dolls.",
+            "delivery": "They're so full of themselves.",
+            "flags": {
+                "nsfw": false,
+                "religious": false,
+                "political": false,
+                "racist": false,
+                "sexist": false,
+                "explicit": false
+            },
+            "id": 87,
+            "safe": true,
+            "lang": "en"
+        }
+    ]
+}

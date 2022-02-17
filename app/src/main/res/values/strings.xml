@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Noahfence</string>
+    <string name="get_joke">Get Joke</string>
 </resources>

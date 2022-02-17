@@ -73,43 +73,5 @@ public class MainActivity extends AppCompatActivity {
 }
 
 /*
-{
-    "error": false,
-    "amount": 2,
-    "jokes": [
-        {
-            "category": "Misc",
-            "type": "twopart",
-            "setup": "How do construction workers party?",
-            "delivery": "They raise the roof.",
-            "flags": {
-                "nsfw": false,
-                "religious": false,
-                "political": false,
-                "racist": false,
-                "sexist": false,
-                "explicit": false
-            },
-            "id": 217,
-            "safe": true,
-            "lang": "en"
-        },
-        {
-            "category": "Programming",
-            "type": "single",
-            "joke": "A SQL statement walks into a bar and sees two tables.\nIt approaches, and asks \"may I join you?\"",
-            "flags": {
-                "nsfw": false,
-                "religious": false,
-                "political": false,
-                "racist": false,
-                "sexist": false,
-                "explicit": false
-            },
-            "id": 5,
-            "safe": true,
-            "lang": "en"
-        }
-    ]
-}
+
  */
